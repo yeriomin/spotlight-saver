@@ -16,3 +16,4 @@ There are three configurable options:
 
 ## Download
 * [Script only](https://raw.githubusercontent.com/yeriomin/spotlight-saver/master/spotlight.ps1)
+* [Script with MediaInfo v0.7.84 executable and a Windows Scheduler task example](https://github.com/yeriomin/spotlight-saver/archive/with-mediainfo.zip)
